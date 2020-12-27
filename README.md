@@ -1,4 +1,4 @@
-# dailynews
+# Dailynews
 
 A new Flutter application.
 
